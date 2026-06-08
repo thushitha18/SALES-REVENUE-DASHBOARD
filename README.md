@@ -7,7 +7,7 @@ Interactive Power BI dashboard for analyzing sales and revenue performance.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard (1).png)
 
 ## Features
 - Total Sales KPI
